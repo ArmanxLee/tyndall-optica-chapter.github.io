@@ -12,14 +12,12 @@ Website for the UCC × Tyndall Optica Student Chapter.
 6. Save.
 7. Your site will be available at:
 
-https://tyndall-optica-chapter.github.io/
-
 ## Before publishing
 
 In `index.html`, replace:
-- the `#` on the **Join the chapter** button with your Google Form URL;
-- the Instagram `#` with your Instagram URL;
-- the LinkedIn `#` with your LinkedIn URL;
+- the `#` on the **Join the chapter** button with the Google Form URL;
+- the Instagram `#` with Optica/SPIE Instagram URL;
+- the LinkedIn `#` with LinkedIn URL;
 - `YOUR_EMAIL_HERE` with the chapter email;
 - the placeholder event section with real events.
 
